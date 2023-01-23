@@ -1,0 +1,11 @@
+{
+	"name":"AttackLevelPatch",
+	"author_name":"willuwontu",
+    "version_number":"0.0.0",
+	"website_url":"https://github.com/willuwontu/AttackLevelPatch",
+	"displayName":"AttackLevelPatch",
+	"description":"Fixes issues with attack level components killing themselves.",
+	"dependencies": [
+		"BepInEx-BepInExPack_ROUNDS-5.4.1100"
+	]
+}
